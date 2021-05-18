@@ -1,2 +1,5 @@
-/target
+/target/debug
+/target/rls
+/target/.rustc_info.json
+/target/CACHEDIR.TAG
 /output.txt
